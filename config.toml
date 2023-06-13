@@ -1,0 +1,4 @@
+baseURL = 'http:/yasharma.xyz/'
+languageCode = 'en-us'
+title = 'Yash Sharma'
+theme = 'congo'
