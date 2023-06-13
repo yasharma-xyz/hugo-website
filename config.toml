@@ -1,4 +1,5 @@
-baseURL = 'http:/yasharma.xyz/'
+baseURL = ''
+relativeURLs = 'True'
 languageCode = 'en-us'
 title = 'Yash Sharma'
 theme = 'congo'

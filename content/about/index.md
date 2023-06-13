@@ -1,10 +1,7 @@
 ---
-layout: page
-permalink: "about"
-title: About
-showAuthor: false
-showDate: false
-showReadingTime: false
+title: "About"
+date: 2023-06-12T22:06:09-04:00
+draft: false
 ---
 
 ### Hi, I am Yash Sharma
